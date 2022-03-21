@@ -1,6 +1,7 @@
 # 批量筛选清理群成员
 一个用于批量清理QQ群内(划水)成员的爬虫脚本,基于python和selenium
 
+[教程](https://blog.csdn.net/Fandes_F/article/details/119302183)
 # 用法
 "手动登录后,(设置其他筛选条件)按alt+s可以自动下滑加载全部成员页面(也可以自己用鼠标滚动加载)," 
 
